@@ -1,0 +1,2 @@
+C:\\Users\\dawis\\source\\repos\\BilansPieniezny\\BilansPieniezny\\bilans.txt
+18000,00
